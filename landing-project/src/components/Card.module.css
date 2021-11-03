@@ -1,8 +1,10 @@
 .container img {
   width: 300px;
+  height: 200px;
 }
 .container {
   margin: 10px;
+  width: 300px;
   background-color: #ececec;
   border-radius: 10px;
   overflow: hidden;
@@ -27,6 +29,7 @@
 }
 .counter img {
   margin: 20px;
+  height: fit-content;
   cursor: pointer;
   width: 20px;
 }
